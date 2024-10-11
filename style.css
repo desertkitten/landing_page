@@ -138,8 +138,8 @@ nav ul li a {
 .cta button {
     background-color: #3882F6;
     color: #F9FAF8;
-    border: 2px solid #F9FAF8;
-    padding: 10px 20px;
+    border: 2px solid#F9FAF8;
+    border-color: #F9FAF8 padding: 10px 20px;
     cursor: pointer;
 }
 
