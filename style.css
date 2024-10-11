@@ -127,6 +127,8 @@ nav ul li a {
 }
 
 .cta {
+    display: flex;
+    justify-content: space-between;
     padding: 50px;
     background-color: #3882F6;
     color: #F9FAF8;
