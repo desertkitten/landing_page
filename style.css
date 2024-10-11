@@ -38,6 +38,14 @@ nav ul li a {
     text-decoration: none;
 }
 
+nav ul li a:visited {
+    color: antiquewhite;
+}
+
+nav ul li a:hover {
+    color: #3882F6;
+}
+
 .hero {
     display: flex;
     justify-content: space-between;
