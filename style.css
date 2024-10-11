@@ -69,7 +69,7 @@ nav ul li a {
 }
 
 .hero-image {
-    width: 300px;
+    width: 400px;
     height: 200px;
     background-color: grey;
     justify-content: center;
@@ -99,9 +99,8 @@ nav ul li a {
 }
 
 .info-items p {
-    margin-top: 10px;
-    /* space between image and text */
-    font-size: 15px;
+    margin-top: 5px;
+    font-size: 14px;
 }
 
 .item {
